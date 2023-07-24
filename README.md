@@ -40,7 +40,7 @@ To get a local copy of the Theme Color Changer up and running on your machine, f
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/theme-color-changer.git
+   https://github.com/abdul-1432/Theam-toggle
    ```
 
 2. Navigate to the project directory:
