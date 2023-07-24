@@ -53,7 +53,7 @@ To get a local copy of the Theme Color Changer up and running on your machine, f
 
 To use the Theme Color Changer, simply open the `index.html` file in your web browser. The page will load with the default white theme. To switch to the black theme, click anywhere on the page, and the theme will change accordingly. Click again to revert to the white theme.
 
-Feel free to integrate this Theme Color Changer into your own projects and customize it as per your requirements. It can be a great addition to your website or web application, providing users with an option to choose their preferred theme.
+Feel free to integrate this Theme Color Changer into your projects and customize it as per your requirements. It can be a great addition to your website or web application, providing users with an option to choose their preferred theme.
 
 ## License
 
